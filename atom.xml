@@ -4,7 +4,7 @@
   <title><![CDATA[Tassel's Blog]]></title>
   <link href="http://woyusi.github.io/atom.xml" rel="self"/>
   <link href="http://woyusi.github.io/"/>
-  <updated>2014-05-13T22:44:49+08:00</updated>
+  <updated>2014-05-13T22:54:25+08:00</updated>
   <id>http://woyusi.github.io/</id>
   <author>
     <name><![CDATA[Tassel]]></name>
@@ -14,19 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://woyusi.github.io/blog/2014/05/13/test/"/>
-    <updated>2014-05-13T00:00:00+08:00</updated>
-    <id>http://woyusi.github.io/blog/2014/05/13/test</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First]]></title>
-    <link href="http://woyusi.github.io/blog/2014/05/13/first/"/>
-    <updated>2014-05-13T00:00:00+08:00</updated>
-    <id>http://woyusi.github.io/blog/2014/05/13/first</id>
+    <title type="html"><![CDATA[First-blog]]></title>
+    <link href="http://woyusi.github.io/blog/2014/05/13/first-blog/"/>
+    <updated>2014-05-13T22:54:09+08:00</updated>
+    <id>http://woyusi.github.io/blog/2014/05/13/first-blog</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
